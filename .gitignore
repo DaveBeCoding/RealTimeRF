@@ -1,0 +1,24 @@
+# Ignore the virtual environment directory
+ml_pro_01/
+
+# Ignore any .vscode folder (for VS Code users)
+.vscode/
+
+# Ignore any IDE-generated files or folders
+/__pycache__/
+*.log
+*.pyc
+
+# Ignore any generated documentation
+/docs/_build/
+
+# Ignore any user-specific data
+.cache/
+.config/
+
+# Ignore any temporary build output
+/tmp/
+_dist/
+_build/
+_re /
+
